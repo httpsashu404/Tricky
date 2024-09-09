@@ -1,0 +1,46 @@
+.carousel-item img{
+    width: 100%;
+}
+#topic, .quick{
+    margin: auto;
+    font-weight: bold;
+    width: max-content;
+    padding-bottom:5px ;
+    border-bottom: 2px solid tomato;
+}
+.box{
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    height:min-content;
+    text-align: justify;
+    border-radius: 10px;
+    border: 1px solid silver;
+}
+.profile{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    margin-top: -50px;
+    border-radius: 100px;
+    background-size: cover;
+    background-image: url(./Image/Profile.png);
+}
+footer a{
+    width: min-content;
+    color: white;
+    display:block;
+    text-decoration: none;
+}
+.social{
+    margin: 0px 5px;
+    display: inline-block;
+}
+footer{
+    width: 100%;
+    color: silver;
+    padding: 5px 0px;
+    background-color: black;
+    border-top: 1px solid white;
+}
