@@ -18,14 +18,23 @@
     border-radius: 10px;
     border: 1px solid silver;
 }
-.profile{
+.profile1{
     width: 80px;
     height: 80px;
     margin: auto;
     margin-top: -50px;
     border-radius: 100px;
     background-size: cover;
-    background-image: url(./Image/Profile.png);
+    background-image: url(./Image/Ashu.png);
+}
+.profile2{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    margin-top: -50px;
+    border-radius: 100px;
+    background-size: cover;
+    background-image: url(./Image/Rounak.jpg);
 }
 footer a{
     width: min-content;
@@ -34,6 +43,7 @@ footer a{
     text-decoration: none;
 }
 .social{
+    color: black;
     margin: 0px 5px;
     display: inline-block;
 }
